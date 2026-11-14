@@ -24,7 +24,7 @@
 
 I'm **Dzacky Habbibu Ramadhan**, a developer from Indonesia who enjoys building all kinds of software, from web apps and bots to automation tools and side experiments.
 
-I pick the right tools for each idea and learn whatever a project demands along the way.
+Right now I'm focused on building my own projects, especially automation tools that make everyday work faster. I pick the right tools for each idea and learn whatever a project demands along the way.
 
 📍 Indonesia
 🕐 UTC +07:00
@@ -38,11 +38,11 @@ I pick the right tools for each idea and learn whatever a project demands along 
 
 <br/><br/>
 
-### 🤝 Open To
+### 🎯 Current Focus
 
-- Collaboration on open source
-- Technical discussions
-- New project opportunities
+- Building my own automation tools
+- Growing my projects solo first
+- Learning new tech along the way
 
 </td>
 </tr>

@@ -1,32 +1,30 @@
-<!-- Ganti semua kata USERNAME / NAMAKAMU / dll sebelum dipakai -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Dzacky&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Dzacky&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=60&descSize=18" />
 
 <a href="https://github.com/Dzackyhabbibu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Membangun+bot+%26+tools+yang+berguna;Suka+ngoding+sambil+ngopi+%E2%98%95;Selalu+belajar+hal+baru+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+useful+software+and+tools;Turning+ideas+into+working+projects;Always+learning+something+new;Open+to+collaboration" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dzackyhabbibu&label=Profile%20Views&color=8b5cf6&style=flat-square" />
-<img src="https://img.shields.io/github/followers/U?style=flat-square&color=8b5cf6&logo=github" />
+<img src="https://img.shields.io/github/followers/Dzackyhabbibu?style=flat-square&color=8b5cf6&logo=github" />
+<img src="https://img.shields.io/github/stars/Dzackyhabbibu?style=flat-square&color=8b5cf6&logo=github" />
 
 </div>
 
 ---
 
-### 👋 Tentang Saya
+## About Me
 
-- 🔭 Lagi mengerjakan **All-in-One Discord Bot** (moderasi, leveling, musik, dashboard)
-- 🌱 Sedang belajar: **ISI_DISINI**
-- 💬 Tanya saya soal: **ISI_DISINI**
-- ⚡ Fun fact: **ISI_DISINI**
+I'm Dzacky Habbibu Ramadhan, a developer from Indonesia who enjoys building all kinds of software, from web apps and bots to automation tools and side experiments. I don't stick to a single niche: I pick the right tools for each idea and learn whatever a project demands along the way.
+
+I mostly work with JavaScript, TypeScript, Node.js, and Python. I'm always open to collaboration, technical discussions, and new project opportunities.
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,29 +34,51 @@
 
 ---
 
-### 🚀 Proyek Pilihan
+## Featured Projects
 
-| Proyek | Deskripsi | Status |
+| Project | Description | Status |
 |:--|:--|:--:|
-| [**Discord Bot**](https://github.com/USERNAME/NAMA-REPO) | Bot Discord all-in-one: moderasi, leveling, musik & dashboard web | 🛠️ Dalam pengerjaan |
-| [**Proyek 2**](https://github.com/USERNAME/REPO) | Deskripsi singkat | ✅ Selesai |
+| **All-in-One Discord Bot** | A feature-rich Discord bot with moderation, leveling, music, and a web dashboard | In progress |
+
+<!-- Add more projects as you publish them, for example:
+| [**Repo Name**](https://github.com/Dzackyhabbibu/repo-name) | Short description | Completed |
+-->
 
 ---
 
-### 📊 GitHub Stats
+## Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dzackyhabbibu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzackyhabbibu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
 <img src="https://streak-stats.demolab.com?user=Dzackyhabbibu&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dzackyhabbibu&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dzackyhabbibu&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
 ---
 
-### 🌐 Terhubung Dengan Saya
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dzackyhabbibu/Dzackyhabbibu/output/github-snake-dark.svg" />
+
+</div>
+
+---
+
+## Connect With Me
 
 <div align="center">
 
@@ -67,7 +87,7 @@
 <a href="https://youtube.com/@Dzackyhabbibu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://tiktok.com/@Dzackyhabbibu"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://x.com/Dzackyhabbibu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://linkedin.com/in/Dzacky Habbibu Ramadhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dzacky-habbibu-ramadhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dzackyhabbibu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>

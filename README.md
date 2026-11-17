@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Dzacky%20Habbibu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dzacky%20Habbibu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/Dzackyhabbibu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+useful+software+and+tools;Turning+ideas+into+working+projects;Always+learning+something+new;Open+to+collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+useful+software+from+scratch;Turning+repetitive+work+into+one+click;Learning+something+new+every+day;Solo+builder+%E2%80%A2+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" />
 </a>
 
-<br/>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/status-building-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/location-Indonesia-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/timezone-UTC%2B07%3A00-8b5cf6?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=Dzackyhabbibu&label=Profile%20Views&color=8b5cf6&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Dzackyhabbibu?style=flat-square&color=8b5cf6&logo=github" />
-<img src="https://img.shields.io/github/stars/Dzackyhabbibu?style=flat-square&color=8b5cf6&logo=github" />
 
 </div>
 
@@ -22,12 +23,9 @@
 
 ### 👤 About Me
 
-I'm **Dzacky Habbibu Ramadhan**, a developer from Indonesia who enjoys building all kinds of software, from web apps and bots to automation tools and side experiments.
+I'm **Dzacky Habbibu Ramadhan**, a developer from Indonesia who enjoys building software from the ground up, from web apps and bots to automation tools and side experiments.
 
-Right now I'm focused on building my own projects, especially automation tools that make everyday work faster. I pick the right tools for each idea and learn whatever a project demands along the way.
-
-📍 Indonesia
-🕐 UTC +07:00
+Right now I'm focused on building my own automation tools that make everyday work faster. I pick the right tools for each idea and learn whatever a project demands along the way.
 
 </td>
 <td width="50%" valign="top">
@@ -40,15 +38,15 @@ Right now I'm focused on building my own projects, especially automation tools t
 
 ### 🎯 Current Focus
 
-- Building my own automation tools
-- Growing my projects solo first
-- Learning new tech along the way
+- ⚙️ Building automation tools
+- 🧩 Growing my projects solo first
+- 📚 Learning new tech along the way
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
@@ -60,7 +58,7 @@ Right now I'm focused on building my own projects, especially automation tools t
 |:--|:--|:--:|
 | **All-in-One Discord Bot** | Feature-rich Discord bot with moderation, leveling, music, and a web dashboard | 🛠️ In progress |
 
----
+<br/>
 
 <div align="center">
 
@@ -70,7 +68,7 @@ Right now I'm focused on building my own projects, especially automation tools t
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -86,6 +84,6 @@ Right now I'm focused on building my own projects, especially automation tools t
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>

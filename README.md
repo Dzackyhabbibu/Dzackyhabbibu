@@ -1,89 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dzacky%20Habbibu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=62&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:171044,70:4c1d95,100:7c3aed&height=250&section=header&text=Dzacky%20Habbibu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/Dzackyhabbibu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+useful+software+from+scratch;Turning+repetitive+work+into+one+click;Learning+something+new+every+day;Solo+builder+%E2%80%A2+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Turning+ideas+into+working+software.;Vibe+coding+the+first+draft%2C+then+refining+by+hand.;Learning.+Experimenting.+Shipping." />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/status-building-8b5cf6?style=flat-square" />
-<img src="https://img.shields.io/badge/location-Indonesia-8b5cf6?style=flat-square" />
-<img src="https://img.shields.io/badge/timezone-UTC%2B07%3A00-8b5cf6?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=Dzackyhabbibu&label=Profile%20Views&color=8b5cf6&style=flat-square" />
-
-</div>
-
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 About Me
-
-I'm **Dzacky Habbibu Ramadhan**, a developer from Indonesia who enjoys building software from the ground up, from web apps and bots to automation tools and side experiments.
-
-Right now I'm focused on building my own automation tools that make everyday work faster. I pick the right tools for each idea and learn whatever a project demands along the way.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git,github,vscode&theme=dark" />
+<a href="https://github.com/Dzackyhabbibu">
+  <img src="https://img.shields.io/badge/GitHub-Dzackyhabbibu-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Based%20in-Indonesia-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Mode-Building-C4B5FD?style=flat-square&logo=rocket&logoColor=black" />
 
 <br/><br/>
 
-### 🎯 Current Focus
-
-- ⚙️ Building automation tools
-- 🧩 Growing my projects solo first
-- 📚 Learning new tech along the way
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🚀 Featured Project
+<img src="https://komarev.com/ghpvc/?username=Dzackyhabbibu&style=flat-square&color=7c3aed&label=Visitors" />
 
 </div>
 
-| Project | Description | Status |
+---
+
+## 👨‍💻 About Me
+
+```ts
+class Developer {
+  readonly name = "Dzacky Habbibu Ramadhan";
+  readonly username = "Dzackyhabbibu";
+  readonly location = "Indonesia";
+  readonly role = "Software Developer";
+
+  readonly interests = [
+    "Software Engineering",
+    "Automation & Productivity",
+    "Web Development",
+    "Bots & Integrations",
+    "Technology & Innovation",
+  ];
+
+  readonly mindset = "Build. Learn. Improve. Repeat.";
+
+  introduce(): string {
+    return "Turning ideas into useful software.";
+  }
+}
+
+const dzacky = new Developer();
+```
+
+I'm a developer who enjoys exploring technology and transforming ideas into practical software. My interests range from web applications and automation tools to bots, integrations, and developer utilities.
+
+I enjoy understanding how things work, experimenting with different technologies, and building solutions that are useful beyond just writing code. My goal is simple: keep learning, build meaningful things, and keep improving.
+
+---
+
+## ⚡ Technology Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+
+**Runtime & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,npm,git,github,vscode&theme=dark" />
+
+**Exploring**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,mongodb,mysql,docker&theme=dark" />
+
+---
+
+## 🧠 What I Do
+
+| ⚙️ Automation Engineering | 🌐 Software Development |
+|:--|:--|
+| Workflow automation | Web applications |
+| Repetitive task reduction | Backend development |
+| Custom scripts | API integrations |
+| Developer utilities | Discord bots |
+| Productivity systems | Software architecture |
+
+| 🔬 Technical Exploration | 💡 Problem Solving |
+|:--|:--|
+| New programming languages | Logical thinking |
+| Modern frameworks | Code optimization |
+| Development tools | Debugging |
+| Open-source projects | Maintainable solutions |
+
+---
+
+## 🎧 Workflow
+
+Vibe coding is part of how I work: I use AI tools to prototype fast, then read, test, and refine everything by hand so the final code is something I actually understand.
+
+```bash
+$ vibe --prototype "idea"   # get a first draft fast
+$ review && test            # read it, break it, understand it
+$ refactor --by-hand        # make it clean and maintainable
+$ ship                      # done, then learn from it
+```
+
+---
+
+## 🎯 Development Roadmap
+
+| Area | Goal | Status |
 |:--|:--|:--:|
-| **All-in-One Discord Bot** | Feature-rich Discord bot with moderation, leveling, music, and a web dashboard | 🛠️ In progress |
+| JavaScript | Improve advanced concepts | 🔄 |
+| TypeScript | Stronger type safety | 🔄 |
+| Node.js | Backend development | 🔄 |
+| Python | Automation & scripting | 🔄 |
+| Web Development | Build complete applications | 🔄 |
+| Software Engineering | Better architecture & testing | 🔄 |
 
-<br/>
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-### 📊 Activity
-
-<img src="https://streak-stats.demolab.com?user=Dzackyhabbibu&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Dzackyhabbibu&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD" />
 
 </div>
 
-<br/>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-### 🌐 Connect With Me
-
-<a href="https://instagram.com/Dzackyhabbibu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://discord.com/users/969978679457366127"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://youtube.com/@Dzackyhabbibu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://tiktok.com/@Dzackyhabbibu"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://x.com/Dzackyhabbibu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://linkedin.com/in/dzacky-habbibu-ramadhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dzackyhabbibu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Dzackyhabbibu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/Dzackyhabbibu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.com/users/969978679457366127"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://youtube.com/@Dzackyhabbibu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://tiktok.com/@Dzackyhabbibu"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="https://x.com/Dzackyhabbibu"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dzacky-habbibu-ramadhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dzackyhabbibu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+> 💜 *Don't just consume technology. Build with it.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:050505&height=150&section=footer" />
 
 </div>
